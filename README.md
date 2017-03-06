@@ -19,4 +19,6 @@ Is this the best we can do?
 
 By moving to graphical models where articles are nodes which can be connected by various types of edge we can allow a user to explore content based on their interest in a general field (say, politics) or their particular interest with a given topic.
 
+### Example Graph
+<img src="https://github.com/currysoup/nooz/blob/master/graph.jpeg?raw=true" width="400">
 
