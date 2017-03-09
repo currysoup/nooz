@@ -2,17 +2,17 @@ body {
     background-color: rgba(51,51,51,0.05);
 }
 
-//.container {
-//    display: flex;
-//    flex-direction: row;
-//}
+.container {
+    display: flex;
+    flex-direction: row;
+}
 
 .explorer {
     min-width: 30%;
 }
 
 .explorer--container {
-    height: 800px;
+    height: 500px;
     border: 1px solid #101010;
 }
 

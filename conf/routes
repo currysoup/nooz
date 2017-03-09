@@ -1,0 +1,10 @@
+# Web client
+GET  /                          controllers.frontend.App.index
+
+# API
+GET  /api/topics/:id            controllers.api.TopicController.getTopic(id)
+GET  /api/topics                controllers.api.TopicController.listTopics
+POST /api/topics                controllers.api.TopicController.newTopic
+
+# Assets for frontend
+GET  /assets/*file              controllers.Assets.at(file)
